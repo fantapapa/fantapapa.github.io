@@ -2,10 +2,8 @@
 
 Questa pagina contiene gli aggiornamenti al Fantapapa.
 
-<!-- PARSE BEGIN -->
-- Aggiornamento con menzioni <!-- {"created":"2025-03-10T09:10:00Z"} -->
+- [Primo bollettino di prova del 10 marzo](bulletin/03-10.html). Cardinali menzionati:
   -  Francis Leo
   -  François-Xavier Bustillo
   -  José Tolentino Calaça de Mendonça
-- Aggiornamento senza menzioni <!-- {"created":"2025-03-10T08:11:33Z"} -->
-<!-- PARSE END -->
+- [Secondo bollettino di prova del 10 marzo](bulletin/03-10-bis.html). Nessun cardinale menzionato.
