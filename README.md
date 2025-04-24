@@ -6,3 +6,4 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
 2. [Annuncio della morte di Bergoglio](bulletin/04-22.html). Nessun cardinale menzionato.
 3. [Annuncio dei duemila iscritti](bulletin/04-23.html). Nessun cardinale menzionato.
 4. [Annuncio dell'odore d'incenso](bulletin/04-24.html). Nessun cardinale menzionato.
+5. [Annuncio del 25 Aprile](bulletin/04-25.html). Nessun cardinale menzionato.
