@@ -35,3 +35,4 @@ le chiamate remote che vengono effettuate riguardano solo gli accessi ai dati sa
 
 Fate quello che vi pare tranne cercare di rompere o danneggiare il Fantapapa.
 Chi viola le condizioni d'uso può essere espulso dal gioco a discrezione degli amministratori.
+L'età minima per partecipare al Fantapapa è fissata a 16 anni.
