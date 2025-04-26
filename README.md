@@ -7,3 +7,4 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
 3. [Annuncio dei duemila iscritti](bulletin/04-23.html). Nessun cardinale menzionato.
 4. [Annuncio dell'odore d'incenso](bulletin/04-24.html). Nessun cardinale menzionato.
 5. [Annuncio del 25 Aprile](bulletin/04-25.html). Nessun cardinale menzionato.
+6. [Annuncio sul ribattezzo](bulletin/04-26.html). Nessun cardinale menzionato.
