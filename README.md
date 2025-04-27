@@ -8,3 +8,4 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
 4. [Annuncio dell'odore d'incenso](bulletin/04-24.html). Nessun cardinale menzionato.
 5. [Annuncio del 25 Aprile](bulletin/04-25.html). Nessun cardinale menzionato.
 6. [Annuncio sul ribattezzo](bulletin/04-26.html). Nessun cardinale menzionato.
+7. [Annuncio sulle leghe](bulletin/04-27.html). Nessun cardinale menzionato.
