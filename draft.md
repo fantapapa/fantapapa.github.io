@@ -7,3 +7,12 @@ Questa pagina contiene le bozze di sviluppo per gli aggiornamenti al Fantapapa.
   -  Francis Leo
   -  François-Xavier Bustillo
   -  José Tolentino Calaça de Mendonça
+
+<dl>
+  <dt>Phase</dt>
+  <dd>conclave</dd>
+  <dt>Pope</dt>
+  <dd>Luis Antonio Tagle</dd>
+  <dt>papalName</dt>
+  <dd>Francesco</dd>
+</dl>
