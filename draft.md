@@ -15,4 +15,6 @@ Questa pagina contiene le bozze di sviluppo per gli aggiornamenti al Fantapapa.
   <dd>Luis Antonio Tagle</dd>
   <dt>papalName</dt>
   <dd>Francesco</dd>
+  <dt>habemusStart</dt>
+  <dd>Gaudium</dd>
 </dl>
