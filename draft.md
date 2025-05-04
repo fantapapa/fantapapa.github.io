@@ -10,7 +10,7 @@ Questa pagina contiene le bozze di sviluppo per gli aggiornamenti al Fantapapa.
 
 <dl>
   <dt>Phase</dt>
-  <dd>conclave</dd>
+  <dd>ranked</dd>
   <dt>Pope</dt>
   <dd>Luis Antonio Tagle</dd>
   <dt>papalName</dt>
