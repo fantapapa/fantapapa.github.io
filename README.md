@@ -12,3 +12,4 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
 8. [Annuncio sulla data del conclave](bulletin/04-29.html). Nessun cardinale menzionato.
 9. [Annuncio del Primo Maggio](bulletin/05-01.html). Nessun cardinale menzionato.
 10. [Annuncio della finta traduzione](bulletin/05-03.html). Nessun cardinale menzionato.
+11. [Annuncio di Wikipedia e dell'obolo](bulletin/05-05.html). Nessun cardinale menzionato.
