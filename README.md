@@ -15,6 +15,8 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
 11. [Annuncio di Wikipedia e dell'obolo](bulletin/05-05.html). Nessun cardinale menzionato.
 12. [Annuncio del giorno prima](bulletin/05-06.html). Nessun cardinale menzionato.
 13. [Annuncio dell'inizio del conclave](bulletin/05-07-extra-omnes.html). Nessun cardinale menzionato.
+14. [Annuncio della signora Cinzia](bulletin/05-07-sera.html). Cardinale menzionato:
+  -  Luis Antonio Tagle
 
 <dl>
   <dt>Phase</dt>
