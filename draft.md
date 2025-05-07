@@ -7,6 +7,7 @@ Questa pagina contiene le bozze di sviluppo per gli aggiornamenti al Fantapapa.
   -  Francis Leo
   -  François-Xavier Bustillo
   -  José Tolentino Calaça de Mendonça
+  -  Francis Leo
 
 <dl>
   <dt>Phase</dt>
