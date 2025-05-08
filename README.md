@@ -17,6 +17,28 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
 13. [Annuncio dell'inizio del conclave](bulletin/05-07-extra-omnes.html). Nessun cardinale menzionato.
 14. [Annuncio della signora Cinzia](bulletin/05-07-sera.html). Cardinale menzionato:
   -  Luis Antonio Tagle
+15. [Annuncio dei doppi auguri](bulletin/05-08-mattina.html). Cardinali menzionati:
+  -  Luis Antonio Tagle
+  -  Fernando Filoni
+  -  Robert Francis Prevost
+  -  Robert Francis Prevost
+  -  Mario Grech
+  -  Jean-Marc Aveline
+  -  Jean-Marc Aveline
+  -  Pietro Parolin
+  -  Pietro Parolin
+  -  Pietro Parolin
+  -  Pietro Parolin
+  -  Pietro Parolin
+  -  Matteo Maria Zuppi
+  -  Matteo Maria Zuppi
+  -  Giuseppe Betori
+  -  Gerhard Ludwig Müller
+  -  Pablo Virgilio Siongco David
+  -  Pierbattista Pizzaballa
+  -  Pierbattista Pizzaballa
+  -  Ángel Fernández Artime
+  -  Vink Puljić
 
 <dl>
   <dt>Phase</dt>
