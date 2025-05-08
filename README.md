@@ -54,6 +54,8 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
   -  Filipe Neri Ferrão
   -  Joseph Coutts
   -  Peter Kodwo Appiah Turkson
+17. [Annuncio interlocutorio](bulletin/05-08-sera.html). Nessun cardinale menzionato.
+
 <dl>
   <dt>Phase</dt>
   <dd>conclave</dd>
