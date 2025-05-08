@@ -40,7 +40,20 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
   -  Ángel Fernández Artime
   -  Vink Puljić
   -  Jean-Claude Hollerich
-
+16. [Annuncio dei quattro nuovi](bulletin/05-08-pranzo.html). Cardinali menzionati:
+  -  Luis Antonio Tagle
+  -  Robert Francis Prevost
+  -  Jean-Marc Aveline
+  -  Pietro Parolin
+  -  Matteo Maria Zuppi
+  -  Pablo Virgilio Siongco David
+  -  Pierbattista Pizzaballa
+  -  Pierbattista Pizzaballa
+  -  Ángel Fernández Artime
+  -  Cristóbal López Romero
+  -  Filipe Neri Ferrão
+  -  Joseph Coutts
+  -  Peter Kodwo Appiah Turkson
 <dl>
   <dt>Phase</dt>
   <dd>conclave</dd>
