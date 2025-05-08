@@ -55,8 +55,58 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
   -  Joseph Coutts
   -  Peter Kodwo Appiah Turkson
 17. [Annuncio interlocutorio](bulletin/05-08-sera.html). Nessun cardinale menzionato.
+18. [Annuncio del papa eletto](bulletin/05-08-habemus-papam.html). Cardinali menzionati:
+  -  Pietro Parolin
+  -  Dominique Mamberti
+  -  Dominique Mamberti
+  -  Robert Francis Prevost
 
 <dl>
   <dt>Phase</dt>
-  <dd>conclave</dd>
+  <dd>elected</dd>
+  
+  <dt>Pope</dt>
+  <dd>Robert Francis Prevost</dd>
+  
+  <dt>papalName</dt>
+  <dd>Leone</dd>
+  
+  <dt>habemusStart</dt>
+  <dd>Annuntio</dd>
+  
+  <dt>habemusCase</dt>
+  <dd>acc</dd>
+  
+  <dt>habemusOrdinal</dt>
+  <dd>y</dd>
+  
+  <dt>blackSmokes</dt>
+  <dd>2</dd>
+  
+  <dt>dayOfWeek</dt>
+  <dd>thu</dd>
+  
+  <dt>religiousOrder</dt>
+  <dd>osa</dd>
+  
+  <dt>cardinalOrder</dt>
+  <dd>episcopus</dd>
+  
+  <dt>archbishop</dt>
+  <dd>n</dd>
+  
+  <dt>speechLanguages</dt>
+  <dd>2</dd>
+  
+  <dt>speechGlasses</dt>
+  <dd>y</dd>
+  
+  <dt>speechPolitics</dt>
+  <dd>p</dd>
+  
+  <dt>speechPrayer</dt>
+  <dd>y</dd>
+  
+  <dt>speechEnd</dt>
+  <dd>amen</dd>
 </dl>
