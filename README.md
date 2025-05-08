@@ -39,6 +39,7 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
   -  Pierbattista Pizzaballa
   -  Ángel Fernández Artime
   -  Vink Puljić
+  -  Jean-Claude Hollerich
 
 <dl>
   <dt>Phase</dt>
