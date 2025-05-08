@@ -57,6 +57,7 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
 17. [Annuncio interlocutorio](bulletin/05-08-sera.html). Nessun cardinale menzionato.
 18. [Annuncio del papa eletto](bulletin/05-08-habemus-papam.html). Cardinali menzionati:
   -  Pietro Parolin
+  -  Orani João Tempesta
   -  Dominique Mamberti
   -  Dominique Mamberti
   -  Robert Francis Prevost
