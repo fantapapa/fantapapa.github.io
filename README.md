@@ -64,7 +64,7 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
 
 <dl>
   <dt>Phase</dt>
-  <dd>elected</dd>
+  <dd>ranked</dd>
   
   <dt>Pope</dt>
   <dd>Robert Francis Prevost</dd>
