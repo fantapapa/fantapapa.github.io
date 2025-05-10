@@ -61,6 +61,7 @@ Questa pagina contiene gli aggiornamenti al Fantapapa.
   -  Dominique Mamberti
   -  Dominique Mamberti
   -  Robert Francis Prevost
+19. [Annuncio della fantapapessa](bulletin/05-10-missa-est.html). Nessun cardinale menzionato. Commozione. Sipario.
 
 <dl>
   <dt>Phase</dt>
